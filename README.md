@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm Frank, a full-stack developer in Accra, Ghana, and the founder of **[INNOVISION GHANA](https://innovisiongh.com/)**, where I design and build web products for real businesses and organizations — not tutorial projects.
+I'm Frank, a full-stack developer in Accra, Ghana. I founded **[INNOVISION GHANA](https://innovisiongh.com/)**, where I design and build web products for real businesses and organizations, and **Sunleon Router Enterprise**.
 
 My work centers on the **Next.js / TypeScript** stack end-to-end: multi-tenant SaaS with proper data isolation and role-based access, marketing sites that need to look and feel premium, and booking/service platforms with real forms, validation, and email delivery behind them. I also came up through university coursework in Computer Science, which is where the Python, Java, C#, and C++ side of my GitHub comes from.
 
@@ -86,8 +86,9 @@ Marketing and booking site for a private chauffeur service in Accra. Built on th
 ### 🏢 Sunleon Router Enterprise
 
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
+![Founder](https://img.shields.io/badge/role-founder-818CF8?style=flat-square)
 
-Marketing site for Sunleon Router Enterprise, with a filterable portfolio page, a detailed services breakdown, and a one-time splash animation on first load.
+Marketing site for Sunleon Router Enterprise, a company I founded, with a filterable portfolio page, a detailed services breakdown, and a one-time splash animation on first load.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
