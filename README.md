@@ -33,7 +33,7 @@ I care about software that ships and holds up in production — clean data model
 | Role | Organization |
 |---|---|
 | Founder | [INNOVISION GHANA](https://innovisiongh.com/) |
-| Founder | Sunleon Router Enterprise |
+| Founder | [Sunleon Router Enterprise](https://www.sunleonrouterenterprise.com/) |
 | Team Lead Developer | Gas Connect |
 | Team Lead Developer | Decorzone GH |
 
@@ -104,7 +104,7 @@ Marketing site for Sunleon Router Enterprise, a company I founded, with a filter
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-**[Live Demo →](https://sunleon-ent.vercel.app)** · *source private — case study available on request*
+**[Live Site →](https://www.sunleonrouterenterprise.com/)** · *source private — case study available on request*
 
 ---
 
