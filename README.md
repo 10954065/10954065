@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="Animated silhouette made of streaming code" />
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
 
 [![Website](https://img.shields.io/badge/Website-innovisiongh.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
@@ -12,7 +16,7 @@
 
 <sub>
 
-[About](#about-me) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Stats](#github-analytics) · [Now](#currently)
+[About](#about-me) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Stats & Trophies](#github-analytics) · [Now](#currently)
 
 </sub>
 
@@ -132,6 +136,10 @@ Site for the Lyndah Kayson Confidence Circle Foundation — a nonprofit communit
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=10954065&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+
+<br/>
+
+<img src="https://github-trophies.vercel.app/?username=10954065&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
