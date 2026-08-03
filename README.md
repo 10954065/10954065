@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Frank Tei-Deku — Full-Stack Developer, Accra, Ghana" width="100%" />
+<img src="assets/banner.svg" alt="Frank Tei-Deku, Full Stack Developer, Accra, Ghana" width="100%" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
 
 [![Website](https://img.shields.io/badge/Website-innovisiongh.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
 [![Location](https://img.shields.io/badge/📍-Accra%2C%20Ghana-1E1B4B?style=for-the-badge)](https://github.com/10954065)
@@ -26,11 +26,11 @@
 
 ## About Me
 
-I'm Frank, a full-stack developer in Accra, Ghana.
+I'm Frank, a full stack developer in Accra, Ghana.
 
-My work centers on the **Next.js / TypeScript** stack end-to-end: multi-tenant SaaS with proper data isolation and role-based access, marketing sites that need to look and feel premium, and booking/service platforms with real forms, validation, and email delivery behind them. I also came up through university coursework in Computer Science, which is where the Python, Java, C#, and C++ side of my GitHub comes from.
+My work centers on the **Next.js / TypeScript** stack end to end: multi tenant SaaS with proper data isolation and role based access, marketing sites that need to look and feel premium, and booking/service platforms with real forms, validation, and email delivery behind them. I also came up through university coursework in Computer Science, which is where the Python, Java, C#, and C++ side of my GitHub comes from.
 
-I care about software that ships and holds up in production — clean data models, sane auth, and UI that doesn't feel like a template.
+I care about software that ships and holds up in production: clean data models, sane auth, and UI that doesn't feel like a template.
 
 **Experience**
 
@@ -69,7 +69,7 @@ I care about software that ships and holds up in production — clean data model
 
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
-Multi-tenant point-of-sale system for retail and pharmacy businesses. Three portals — Super Admin, Company Admin, and Employee — share one Next.js app, one Postgres database, and one JWT auth layer, with every tenant's data isolated by `companyId`. Includes an opt-in pharmacy mode with prescription tracking, controlled-substance dispense logging, and insurance claims.
+Multi tenant point of sale system for retail and pharmacy businesses. Three portals (Super Admin, Company Admin, and Employee) share one Next.js app, one Postgres database, and one JWT auth layer, with every tenant's data isolated by `companyId`. Includes an optional pharmacy mode with prescription tracking, controlled substance dispense logging, and insurance claims.
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -77,9 +77,9 @@ Multi-tenant point-of-sale system for retail and pharmacy businesses. Three port
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://the-vantage-pos.vercel.app)** · *source private — case study available on request*
+**[Live Demo →](https://the-vantage-pos.vercel.app)** · *source private, case study available on request*
 
----
+***
 
 ### 🚗 ODIGOS
 
@@ -92,37 +92,37 @@ Marketing and booking site for a private chauffeur service in Accra. Built on th
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**[Live Demo →](https://odigos-five.vercel.app)** · *source private — case study available on request*
+**[Live Demo →](https://odigos-five.vercel.app)** · *source private, case study available on request*
 
----
+***
 
 ### 🏢 Sunleon Router Enterprise
 
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 ![Founder](https://img.shields.io/badge/role-founder-818CF8?style=flat-square)
 
-Marketing site for Sunleon Router Enterprise, a company I founded, with a filterable portfolio page, a detailed services breakdown, and a one-time splash animation on first load.
+Marketing site for Sunleon Router Enterprise, a company I founded, with a filterable portfolio page, a detailed services breakdown, and a splash animation that plays once on first load.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-**[Live Site →](https://www.sunleonrouterenterprise.com/)** · *source private — case study available on request*
+**[Live Site →](https://www.sunleonrouterenterprise.com/)** · *source private, case study available on request*
 
----
+***
 
 ### 💜 LKCC Foundation
 
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
-Site for the Lyndah Kayson Confidence Circle Foundation — a nonprofit community platform focused on healing and confidence-building.
+Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community platform focused on healing and confidence building.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://thelkcc.vercel.app)** · *source private — case study available on request*
+**[Live Demo →](https://thelkcc.vercel.app)** · *source private, case study available on request*
 
 <br/>
 
@@ -147,10 +147,10 @@ Site for the Lyndah Kayson Confidence Circle Foundation — a nonprofit communit
 
 ## Currently
 
-- 🔭 **Building:** Vantage POS (multi-tenant retail/pharmacy platform) and the ODIGOS booking site
-- 🌱 **Deepening:** Next.js App Router patterns and Prisma/Postgres data modeling for multi-tenant systems
-- 💼 **Open to:** freelance and contract web development through [INNOVISION GHANA](https://innovisiongh.com/)
-- 📫 **Reach me:** [innovisiongh.com](https://innovisiongh.com/) ***[[sunleonrouterenterprise.com](https://www.sunleonrouterenterprise.com/)])
+* 🔭 **Building:** Vantage POS (multi tenant retail/pharmacy platform) and the ODIGOS booking site
+* 🌱 **Deepening:** Next.js App Router patterns and Prisma/Postgres data modeling for multi tenant systems
+* 💼 **Open to:** freelance and contract web development through [INNOVISION GHANA](https://innovisiongh.com/)
+* 📫 **Reach me:** [innovisiongh.com](https://innovisiongh.com/) · [sunleonrouterenterprise.com](https://www.sunleonrouterenterprise.com/)
 
 <br/>
 
