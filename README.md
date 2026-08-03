@@ -150,7 +150,7 @@ Site for the Lyndah Kayson Confidence Circle Foundation — a nonprofit communit
 - 🔭 **Building:** Vantage POS (multi-tenant retail/pharmacy platform) and the ODIGOS booking site
 - 🌱 **Deepening:** Next.js App Router patterns and Prisma/Postgres data modeling for multi-tenant systems
 - 💼 **Open to:** freelance and contract web development through [INNOVISION GHANA](https://innovisiongh.com/)
-- 📫 **Reach me:** [innovisiongh.com](https://innovisiongh.com/)
+- 📫 **Reach me:** [innovisiongh.com](https://innovisiongh.com/) ***[[sunleonrouterenterprise.com](https://www.sunleonrouterenterprise.com/)])
 
 <br/>
 
