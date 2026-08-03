@@ -52,7 +52,9 @@ I care about software that ships and holds up in production — clean data model
 
 ## Featured Projects
 
-### 🏪 [Vantage POS](https://github.com/10954065/The-Vantage-POS)
+### 🏪 Vantage POS
+
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
 Multi-tenant point-of-sale system for retail and pharmacy businesses. Three portals — Super Admin, Company Admin, and Employee — share one Next.js app, one Postgres database, and one JWT auth layer, with every tenant's data isolated by `companyId`. Includes an opt-in pharmacy mode with prescription tracking, controlled-substance dispense logging, and insurance claims.
 
@@ -62,11 +64,13 @@ Multi-tenant point-of-sale system for retail and pharmacy businesses. Three port
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://the-vantage-pos.vercel.app)** · **[Source →](https://github.com/10954065/The-Vantage-POS)**
+**[Live Demo →](https://the-vantage-pos.vercel.app)** · *source private — case study available on request*
 
 ---
 
-### 🚗 [ODIGOS](https://github.com/10954065/odigos)
+### 🚗 ODIGOS
+
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
 Marketing and booking site for a private chauffeur service in Accra. Built on the Next.js App Router with animated page transitions and validated booking forms.
 
@@ -75,11 +79,13 @@ Marketing and booking site for a private chauffeur service in Accra. Built on th
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**[Live Demo →](https://odigos-five.vercel.app)** · **[Source →](https://github.com/10954065/odigos)**
+**[Live Demo →](https://odigos-five.vercel.app)** · *source private — case study available on request*
 
 ---
 
-### 🏢 [Sunleon Router Enterprise](https://github.com/10954065/sunleon-ent)
+### 🏢 Sunleon Router Enterprise
+
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
 Marketing site for Sunleon Router Enterprise, with a filterable portfolio page, a detailed services breakdown, and a one-time splash animation on first load.
 
@@ -88,11 +94,13 @@ Marketing site for Sunleon Router Enterprise, with a filterable portfolio page, 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-**[Live Demo →](https://sunleon-ent.vercel.app)** · **[Source →](https://github.com/10954065/sunleon-ent)**
+**[Live Demo →](https://sunleon-ent.vercel.app)** · *source private — case study available on request*
 
 ---
 
-### 💜 [LKCC Foundation](https://github.com/10954065/lkcc)
+### 💜 LKCC Foundation
+
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
 Site for the Lyndah Kayson Confidence Circle Foundation — a nonprofit community platform focused on healing and confidence-building.
 
@@ -100,7 +108,7 @@ Site for the Lyndah Kayson Confidence Circle Foundation — a nonprofit communit
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://thelkcc.vercel.app)** · **[Source →](https://github.com/10954065/lkcc)**
+**[Live Demo →](https://thelkcc.vercel.app)** · *source private — case study available on request*
 
 <br/>
 
