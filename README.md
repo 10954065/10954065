@@ -35,7 +35,7 @@ I care about software that ships and holds up in production — clean data model
 | Founder | [INNOVISION GHANA](https://innovisiongh.com/) |
 | Founder | [Sunleon Router Enterprise](https://www.sunleonrouterenterprise.com/) |
 | Team Lead Developer | Gas Connect |
-| Team Lead Developer | Decorzone GH |
+| Team Lead Developer | [Decorzone GH](https://decorzonegh.com/) |
 
 <br/>
 
