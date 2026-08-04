@@ -65,7 +65,7 @@ I care about software that ships and holds up in production: clean data models, 
 
 ## Featured Projects
 
-### 🏪 Vantage POS
+### 🏪 Vantage POS System
 
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
