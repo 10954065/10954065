@@ -166,6 +166,10 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 
 <img src="https://github-trophies.vercel.app/?username=10954065&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/10954065/10954065/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
 </div>
 
 <br/>
