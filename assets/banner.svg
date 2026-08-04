@@ -1,28 +1,65 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Frank Tei-Deku, Full Stack Developer, Accra, Ghana">
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Frank Tei-Deku, Full Stack Developer, Accra, Ghana">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B0F19"/>
-      <stop offset="55%" stop-color="#1E1B4B"/>
+      <stop offset="50%" stop-color="#1E1B4B"/>
       <stop offset="100%" stop-color="#312E81"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#818CF8"/>
       <stop offset="100%" stop-color="#38BDF8"/>
     </linearGradient>
+    <linearGradient id="accentSoft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
     <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.3" fill="#FFFFFF"/>
     </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
 
-  <rect width="1200" height="280" fill="url(#bg)"/>
-  <rect width="1200" height="280" fill="url(#dots)" opacity="0.07"/>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#dots)" opacity="0.06"/>
 
-  <circle cx="1060" cy="60" r="140" fill="url(#accent)" opacity="0.10"/>
-  <circle cx="1150" cy="230" r="90" fill="#38BDF8" opacity="0.08"/>
+  <g>
+    <circle cx="1060" cy="70" r="150" fill="url(#glow)">
+      <animate attributeName="r" values="150;168;150" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1170" cy="250" r="95" fill="#818CF8" opacity="0.10">
+      <animate attributeName="opacity" values="0.10;0.18;0.10" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-  <text x="60" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#F8FAFC">Frank Tei-Deku</text>
-  <text x="60" y="163" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="url(#accent)">Full Stack Developer · Accra, Ghana</text>
-  <text x="60" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#94A3B8">Building production web products at INNOVISION GHANA</text>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" opacity="0.55" fill="#38BDF8">
+    <text x="1000" y="145" font-size="22" font-family="'Fira Code', 'Consolas', monospace">&lt;/&gt;</text>
+  </g>
 
-  <path d="M0,255 C260,290 940,220 1200,255 L1200,280 L0,280 Z" fill="#05070D" opacity="0.55"/>
+  <rect x="62" y="72" width="46" height="6" rx="3" fill="url(#accent)"/>
+
+  <text x="60" y="128" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Frank Tei-Deku</text>
+  <text x="60" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="url(#accent)">Full Stack Developer · Accra, Ghana</text>
+  <text x="60" y="204" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#94A3B8">Building production web products at INNOVISION GHANA</text>
+
+  <rect x="60" y="228" width="230" height="1" fill="url(#accentSoft)" opacity="0.6"/>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">
+    <circle cx="66" cy="252" r="4" fill="#4ADE80">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="80" y="257">Open to freelance &amp; contract work</text>
+  </g>
+
+  <path d="M0,270 C260,300 940,240 1200,270 L1200,300 L0,300 Z" fill="#05070D" opacity="0.55"/>
 </svg>

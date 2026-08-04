@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="Animated silhouette made of streaming code" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="Animated silhouette made of streaming code" />
 
 <br/>
 
@@ -16,9 +16,11 @@
 
 <sub>
 
-[About](#about-me) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Stats & Trophies](#github-analytics) · [Now](#currently)
+[About](#about-me) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Stats & Trophies](#github-analytics) · [Now](#currently) · [Connect](#lets-connect)
 
 </sub>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:818CF8,100:38BDF8&height=3" />
 
 </div>
 
@@ -26,11 +28,30 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 I'm Frank, a full stack developer in Accra, Ghana.
 
 My work centers on the **Next.js / TypeScript** stack end to end: multi tenant SaaS with proper data isolation and role based access, marketing sites that need to look and feel premium, and booking/service platforms with real forms, validation, and email delivery behind them. I also came up through university coursework in Computer Science, which is where the Python, Java, C#, and C++ side of my GitHub comes from.
 
 I care about software that ships and holds up in production: clean data models, sane auth, and UI that doesn't feel like a template.
+
+</td>
+<td width="35%" valign="top">
+
+**Quick facts**
+
+- 🎓 B.Sc. Computer Science
+- 🏗️ Founder, 2 ventures
+- 🧭 Based in Accra, Ghana (GMT)
+- 🛠️ Next.js · TypeScript · Postgres
+- 💼 Open to freelance / contract
+
+</td>
+</tr>
+</table>
 
 **Experience**
 
@@ -45,31 +66,25 @@ I care about software that ships and holds up in production: clean data models, 
 
 ## Tech Stack
 
-**Languages**
-
-![](https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,html,css&theme=dark)
-
-**Frontend**
-
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark)
-
-**Backend & Data**
-
-![](https://skillicons.dev/icons?i=nodejs,prisma,postgres&theme=dark)
-
-**Tools & Deploy**
-
-![](https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark)
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,html,css&theme=dark" /></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /></td></tr>
+<tr><td><b>Backend & Data</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres&theme=dark" /></td></tr>
+<tr><td><b>Tools & Deploy</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" /></td></tr>
+</table>
 
 <br/>
 
 ## Featured Projects
 
-### 🏪 Vantage POS System
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🏪 Vantage POS System
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
-Multi tenant point of sale system for retail and pharmacy businesses. Three portals (Super Admin, Company Admin, and Employee) share one Next.js app, one Postgres database, and one JWT auth layer, with every tenant's data isolated by `companyId`. Includes an optional pharmacy mode with prescription tracking, controlled substance dispense logging, and insurance claims.
+Multi tenant point of sale system for retail and pharmacy businesses. Three portals (Super Admin, Company Admin, Employee) share one Next.js app, one Postgres database, and one JWT auth layer, with every tenant's data isolated by `companyId`. Includes an optional pharmacy mode with prescription tracking, controlled substance dispense logging, and insurance claims.
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -77,12 +92,13 @@ Multi tenant point of sale system for retail and pharmacy businesses. Three port
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://the-vantage-pos.vercel.app)** · *source private, case study available on request*
+**[Live Demo →](https://the-vantage-pos.vercel.app)**
+<br/><sub>source private · case study available on request</sub>
 
-***
+</td>
+<td width="50%" valign="top">
 
 ### 🚗 ODIGOS
-
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
 Marketing and booking site for a private chauffeur service in Accra. Built on the Next.js App Router with animated page transitions and validated booking forms.
@@ -92,12 +108,15 @@ Marketing and booking site for a private chauffeur service in Accra. Built on th
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**[Live Demo →](https://odigos-five.vercel.app)** · *source private, case study available on request*
+**[Live Demo →](https://odigos-five.vercel.app)**
+<br/><sub>source private · case study available on request</sub>
 
-***
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏢 Sunleon Router Enterprise
-
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 ![Founder](https://img.shields.io/badge/role-founder-818CF8?style=flat-square)
 
@@ -108,12 +127,13 @@ Marketing site for Sunleon Router Enterprise, a company I founded, with a filter
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-**[Live Site →](https://www.sunleonrouterenterprise.com/)** · *source private, case study available on request*
+**[Live Site →](https://www.sunleonrouterenterprise.com/)**
+<br/><sub>source private · case study available on request</sub>
 
-***
+</td>
+<td width="50%" valign="top">
 
 ### 💜 LKCC Foundation
-
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
 Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community platform focused on healing and confidence building.
@@ -122,7 +142,12 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://thelkcc.vercel.app)** · *source private, case study available on request*
+**[Live Demo →](https://thelkcc.vercel.app)**
+<br/><sub>source private · case study available on request</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -147,14 +172,26 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 
 ## Currently
 
-* 🔭 **Building:** Vantage POS (multi tenant retail/pharmacy platform) and the ODIGOS booking site
-* 🌱 **Deepening:** Next.js App Router patterns and Prisma/Postgres data modeling for multi tenant systems
-* 💼 **Open to:** freelance and contract web development through [INNOVISION GHANA](https://innovisiongh.com/)
-* 📫 **Reach me:** [innovisiongh.com](https://innovisiongh.com/) · [sunleonrouterenterprise.com](https://www.sunleonrouterenterprise.com/)
+| | |
+|---|---|
+| 🔭 **Building** | Vantage POS (multi tenant retail/pharmacy platform) and the ODIGOS booking site |
+| 🌱 **Deepening** | Next.js App Router patterns and Prisma/Postgres data modeling for multi tenant systems |
+| 💼 **Open to** | Freelance and contract web development through [INNOVISION GHANA](https://innovisiongh.com/) |
+| 📫 **Reach me** | [innovisiongh.com](https://innovisiongh.com/) · [sunleonrouterenterprise.com](https://www.sunleonrouterenterprise.com/) |
 
 <br/>
 
+## Let's Connect
+
 <div align="center">
+
+[![Website](https://img.shields.io/badge/INNOVISION_GHANA-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
+[![Sunleon](https://img.shields.io/badge/Sunleon_Router_Enterprise-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sunleonrouterenterprise.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10954065)
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:818CF8&height=3" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=10954065&color=818cf8&style=flat-square&label=Profile+Views" alt="Profile views" />
 
