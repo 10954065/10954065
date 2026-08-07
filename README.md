@@ -155,8 +155,8 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=10954065&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Frank's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10954065&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="200" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Frank's GitHub stats" />
+<img height="200" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages by repository" />
 
 <br/>
 
@@ -165,6 +165,10 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 <br/>
 
 <img src="https://github-trophies.vercel.app/?username=10954065&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+
+<br/>
+
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive coding hours" />
 
 <br/>
 
