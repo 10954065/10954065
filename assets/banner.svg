@@ -35,10 +35,10 @@
 
   <g>
     <circle cx="1060" cy="70" r="150" fill="url(#glow)">
-      <animate attributeName="r" values="150;168;150" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="150;168;150" dur="6s" repeatCount="6" fill="freeze"/>
     </circle>
     <circle cx="1170" cy="250" r="95" fill="#818CF8" opacity="0.10">
-      <animate attributeName="opacity" values="0.10;0.18;0.10" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.10;0.18;0.10" dur="5s" repeatCount="8" fill="freeze"/>
     </circle>
   </g>
 
@@ -56,7 +56,7 @@
 
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">
     <circle cx="66" cy="252" r="4" fill="#4ADE80">
-      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="20" fill="freeze"/>
     </circle>
     <text x="80" y="257">Open to freelance &amp; contract work</text>
   </g>

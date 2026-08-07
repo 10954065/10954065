@@ -8,10 +8,10 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
+[![Full Stack Developer. Next.js, TypeScript, PostgreSQL. Founder at INNOVISION GHANA. Building real products, not demos.](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
 
 [![Website](https://img.shields.io/badge/Website-innovisiongh.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
-[![Location](https://img.shields.io/badge/📍-Accra%2C%20Ghana-1E1B4B?style=for-the-badge)](https://github.com/10954065)
+![Location](https://img.shields.io/badge/📍-Accra%2C%20Ghana-1E1B4B?style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/10954065?label=Follow&style=for-the-badge&color=818CF8&labelColor=0B0F19)](https://github.com/10954065)
 
 <sub>
@@ -20,7 +20,7 @@
 
 </sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:818CF8,100:38BDF8&height=3" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:818CF8,100:38BDF8&height=3" alt="" />
 
 </div>
 
@@ -67,10 +67,10 @@ I care about software that ships and holds up in production: clean data models, 
 ## Tech Stack
 
 <table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,html,css&theme=dark" /></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /></td></tr>
-<tr><td><b>Backend & Data</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres&theme=dark" /></td></tr>
-<tr><td><b>Tools & Deploy</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" /></td></tr>
+<tr><th scope="row">Languages</th><td><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Java, C#, C++, HTML, CSS" /></td></tr>
+<tr><th scope="row">Frontend</th><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="React, Next.js, Tailwind CSS, Vite" /></td></tr>
+<tr><th scope="row">Backend & Data</th><td><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres&theme=dark" alt="Node.js, Prisma, PostgreSQL" /></td></tr>
+<tr><th scope="row">Tools & Deploy</th><td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Git, GitHub, Vercel, VS Code" /></td></tr>
 </table>
 
 <br/>
@@ -92,7 +92,7 @@ Multi tenant point of sale system for retail and pharmacy businesses. Three port
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://the-vantage-pos.vercel.app)**
+**[Vantage POS live demo →](https://the-vantage-pos.vercel.app)**
 <br/><sub>source private · case study available on request</sub>
 
 </td>
@@ -108,7 +108,7 @@ Marketing and booking site for a private chauffeur service in Accra. Built on th
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**[Live Demo →](https://odigos-five.vercel.app)**
+**[ODIGOS live demo →](https://odigos-five.vercel.app)**
 <br/><sub>source private · case study available on request</sub>
 
 </td>
@@ -127,7 +127,7 @@ Marketing site for Sunleon Router Enterprise, a company I founded, with a filter
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-**[Live Site →](https://www.sunleonrouterenterprise.com/)**
+**[Sunleon Router Enterprise live site →](https://www.sunleonrouterenterprise.com/)**
 <br/><sub>source private · case study available on request</sub>
 
 </td>
@@ -142,7 +142,7 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Live Demo →](https://thelkcc.vercel.app)**
+**[LKCC Foundation live demo →](https://thelkcc.vercel.app)**
 <br/><sub>source private · case study available on request</sub>
 
 </td>
@@ -176,7 +176,7 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 
 ## Currently
 
-| | |
+| Status | Details |
 |---|---|
 | 🔭 **Building** | Vantage POS (multi tenant retail/pharmacy platform) and the ODIGOS booking site |
 | 🌱 **Deepening** | Next.js App Router patterns and Prisma/Postgres data modeling for multi tenant systems |
@@ -189,11 +189,11 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/INNOVISION_GHANA-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
-[![Sunleon](https://img.shields.io/badge/Sunleon_Router_Enterprise-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sunleonrouterenterprise.com/)
+[![INNOVISION GHANA](https://img.shields.io/badge/INNOVISION_GHANA-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
+[![Sunleon Router Enterprise](https://img.shields.io/badge/Sunleon_Router_Enterprise-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sunleonrouterenterprise.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10954065)
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:818CF8&height=3" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:818CF8&height=3" alt="" />
 
 <br/>
 
