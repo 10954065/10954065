@@ -147,6 +147,23 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔍 OCR Project — Product Matching Platform
+![In Progress](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)
+
+Full-stack platform that matches product photographs to manufacturer catalog entries. Parses manufacturer PDF catalogs into structured, page-referenced data, then matches photos against them with OCR and computer vision, cutting manual review from thousands of products down to only the uncertain ones. Phase 2 of 3 (catalog ingestion) is complete; photo matching and export are next.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%2B_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**[View source →](https://github.com/10954065/ocr-project)**
+
+</td>
+</tr>
 </table>
 
 <br/>
