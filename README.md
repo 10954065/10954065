@@ -166,6 +166,7 @@ Full-stack platform that matches product photographs to manufacturer catalog ent
 <td width="50%" valign="top">
 
 ### ⛪ White Outreach Movement — Ministry Website
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
 
 Production-ready website build for a Ghana-based street outreach ministry, including a booking-and-approval one-on-one video call system (peer-to-peer WebRTC via PeerJS) alongside sermons, events, and Mobile Money-ready giving (Paystack/Flutterwave). CMS-ready content layer; audited with axe-core for accessibility (zero violations). Placeholder photography and copy pending real content before launch.
 
@@ -174,7 +175,8 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**[Live Demo →](https://white-outreach-movement.vercel.app)** · **[View source →](https://github.com/10954065/white-outreach-movement)**
+**[Live Demo →](https://white-outreach-movement.vercel.app)**
+<br/><sub>source private · case study available on request</sub>
 
 </td>
 </tr>
