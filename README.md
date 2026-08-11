@@ -43,7 +43,7 @@ I care about software that ships and holds up in production: clean data models, 
 
 **Quick facts**
 
-- 🎓 B.Sc. Information Technology 
+- 🎓 B.Sc. Information Technology
 - 🏗️ Founder, 2 ventures
 - 🧭 Based in Accra, Ghana (GMT)
 - 🛠️ Next.js · TypeScript · Postgres
