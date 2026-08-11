@@ -142,7 +142,7 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[LKCC Foundation live demo →](https://thelkcc.vercel.app)**
+**[LKCC Foundation live site →](https://www.lkccfoundation.org/)**
 <br/><sub>source private · case study available on request</sub>
 
 </td>
@@ -175,7 +175,7 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**[Live Demo →](https://white-outreach-movement.vercel.app)**
+**[Live Site →](https://www.whiteoutreachmovement.org/)**
 <br/><sub>source private · case study available on request</sub>
 
 </td>
