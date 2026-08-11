@@ -148,7 +148,7 @@ Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community p
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🔍 OCR Project — Product Matching Platform
 ![In Progress](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)
@@ -161,6 +161,20 @@ Full-stack platform that matches product photographs to manufacturer catalog ent
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **[View source →](https://github.com/10954065/ocr-project)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⛪ White Outreach Movement — Ministry Website
+
+Production-ready website build for a Ghana-based street outreach ministry, including a booking-and-approval one-on-one video call system (peer-to-peer WebRTC via PeerJS) alongside sermons, events, and Mobile Money-ready giving (Paystack/Flutterwave). CMS-ready content layer; audited with axe-core for accessibility (zero violations). Placeholder photography and copy pending real content before launch.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**[Live Demo →](https://white-outreach-movement.vercel.app)** · **[View source →](https://github.com/10954065/white-outreach-movement)**
 
 </td>
 </tr>
