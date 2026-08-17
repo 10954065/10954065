@@ -32,7 +32,7 @@
 <tr>
 <td width="65%" valign="top">
 
-I'm Frank Tei-, a full stack developer in Accra, Ghana.
+I'm Frank Tei-D, a full stack developer in Accra, Ghana.
 
 My work centers on the **Next.js / TypeScript** stack end to end: multi tenant SaaS with proper data isolation and role based access, marketing sites that need to look and feel premium, and booking/service platforms with real forms, validation, and email delivery behind them. I also came up through university coursework in Information Technology, which is where the Python, Java, C#, and C++ side of my GitHub comes from.
 
