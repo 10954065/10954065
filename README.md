@@ -12,7 +12,7 @@
 
 <sub>
 
-[About](#about-me) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Stats & Trophies](#github-analytics) · [Now](#currently) · [Connect](#lets-connect)
+[About](#-about-me) · [Stack](#-tech-stack) · [Projects](#-featured-projects) · [Stats & Trophies](#-github-analytics) · [Now](#-currently) · [Connect](#-lets-connect)
 
 </sub>
 
