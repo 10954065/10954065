@@ -8,11 +8,11 @@
 
 <br/>
 
-[![Full Stack Developer. Next.js, TypeScript, PostgreSQL. Founder at INNOVISION GHANA. Building real products, not demos.](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
+[![Full Stack Developer. Next.js, TypeScript, PostgreSQL. Founder at INNOVISION GHANA. Building real products, not demos.](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
 
 [![Website](https://img.shields.io/badge/Website-innovisiongh.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
-![Location](https://img.shields.io/badge/📍-Accra%2C%20Ghana-1E1B4B?style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/10954065?label=Follow&style=for-the-badge&color=818CF8&labelColor=0B0F19)](https://github.com/10954065)
+![Location](https://img.shields.io/badge/📍-Accra%2C%20Ghana-18181B?style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/10954065?label=Follow&style=for-the-badge&color=2563EB&labelColor=18181B)](https://github.com/10954065)
 
 <sub>
 
@@ -20,7 +20,7 @@
 
 </sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:818CF8,100:38BDF8&height=3" alt="" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" alt="" />
 
 </div>
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="65%" valign="top">
 
-I'm Frank , a full stack developer in Accra, Ghana.
+I'm Frank, a full stack developer in Accra, Ghana.
 
 My work centers on the **Next.js / TypeScript** stack end to end: multi tenant SaaS with proper data isolation and role based access, marketing sites that need to look and feel premium, and booking/service platforms with real forms, validation, and email delivery behind them. I also came up through university coursework in Information Technology, which is where the Python, Java, C#, and C++ side of my GitHub comes from.
 
@@ -118,7 +118,7 @@ Marketing and booking site for a private chauffeur service in Accra. Built on th
 
 ### 🏢 Sunleon Router Enterprise
 ![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-![Founder](https://img.shields.io/badge/role-founder-818CF8?style=flat-square)
+![Founder](https://img.shields.io/badge/role-founder-2563EB?style=flat-square)
 
 Marketing site for Sunleon Router Enterprise, a company I founded, with a filterable portfolio page, a detailed services breakdown, and a splash animation that plays once on first load.
 
@@ -188,20 +188,20 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 
 <div align="center">
 
-<img height="200" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Frank's GitHub stats" />
-<img height="200" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages by repository" />
+<img height="200" src="profile-summary-card-output/nord_dark/3-stats.svg" alt="Frank's GitHub stats" />
+<img height="200" src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Languages by repository" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=10954065&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=10954065&theme=nord&hide_border=true" alt="GitHub streak stats" />
 
 <br/>
 
-<img src="https://github-trophies.vercel.app/?username=10954065&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=10954065&theme=nord&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
 <br/>
 
-<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive coding hours" />
+<img src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Most productive coding hours" />
 
 <br/>
 
@@ -227,14 +227,14 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 <div align="center">
 
 [![INNOVISION GHANA](https://img.shields.io/badge/INNOVISION_GHANA-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
-[![Sunleon Router Enterprise](https://img.shields.io/badge/Sunleon_Router_Enterprise-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sunleonrouterenterprise.com/)
+[![Sunleon Router Enterprise](https://img.shields.io/badge/Sunleon_Router_Enterprise-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sunleonrouterenterprise.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10954065)
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:818CF8&height=3" alt="" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1E3A8A&height=3" alt="" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=10954065&color=818cf8&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=10954065&color=2563eb&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 <sub>Thanks for stopping by.</sub>
 

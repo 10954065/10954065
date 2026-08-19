@@ -3,6 +3,9 @@ name: Generate profile stat cards
 on:
   schedule:
     - cron: "0 3 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -20,4 +23,15 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
-          THEME: "tokyonight"
+          THEME: "nord_dark"
+          AUTO_PUSH: false
+      - name: Remove profile-details card (embeds an email address) and commit the rest
+        run: |
+          rm -f profile-summary-card-output/*/0-profile-details.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile summary cards"
+            git push
+          fi
