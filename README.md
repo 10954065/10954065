@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Frank Tei-Deku, Full Stack Developer, Accra, Ghana" width="100%" />
+<img src="assets/banner.svg" alt="Terminal window. whoami: Frank Tei-Deku, Full Stack Developer, Accra, Ghana. cat mission.txt: Building production web products at INNOVISION GHANA. echo status: available, open to freelance and contract work." width="100%" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="Animated silhouette made of streaming code" />
-
-<br/>
-
-[![Full Stack Developer. Next.js, TypeScript, PostgreSQL. Founder at INNOVISION GHANA. Building real products, not demos.](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Founder+%40+INNOVISION+GHANA;Building+real+products%2C+not+demos)](https://innovisiongh.com/)
+[![Live activity log. Visit innovisiongh.com.](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=%24+tail+-f+activity.log;Building+Vantage+POS+%28multi-tenant+retail%2Fpharmacy%29;Shipping+OCR+Product+Matching+Platform+%28Phase+3%29;Open+to+freelance+%26+contract+work)](https://innovisiongh.com/)
 
 [![Website](https://img.shields.io/badge/Website-innovisiongh.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
 ![Location](https://img.shields.io/badge/📍-Accra%2C%20Ghana-18181B?style=for-the-badge)
@@ -22,36 +18,21 @@
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" alt="" />
 
+<br/>
+
+<img src="assets/facts-strip.svg" alt="Quick facts. Education: B.Sc. Information Technology. Ventures: Founder of two ventures. Location: Accra, Ghana, GMT. Availability: open to freelance and contract work." width="100%" />
+
 </div>
 
 <br/>
 
-## About Me
-
-<table>
-<tr>
-<td width="65%" valign="top">
+## `$` About Me
 
 I'm Frank, a full stack developer in Accra, Ghana.
 
 My work centers on the **Next.js / TypeScript** stack end to end: multi tenant SaaS with proper data isolation and role based access, marketing sites that need to look and feel premium, and booking/service platforms with real forms, validation, and email delivery behind them. I also came up through university coursework in Information Technology, which is where the Python, Java, C#, and C++ side of my GitHub comes from.
 
 I care about software that ships and holds up in production: clean data models, sane auth, and UI that doesn't feel like a template.
-
-</td>
-<td width="35%" valign="top">
-
-**Quick facts**
-
-- 🎓 B.Sc. Information Technology
-- 🏗️ Founder, 2 ventures
-- 🧭 Based in Accra, Ghana (GMT)
-- 🛠️ Next.js · TypeScript · Postgres
-- 💼 Open to freelance / contract
-
-</td>
-</tr>
-</table>
 
 **Experience**
 
@@ -64,7 +45,7 @@ I care about software that ships and holds up in production: clean data models, 
 
 <br/>
 
-## Tech Stack
+## `$` Tech Stack
 
 <table>
 <tr><th scope="row">Languages</th><td><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,cpp,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Java, C#, C++, HTML, CSS" /></td></tr>
@@ -75,7 +56,7 @@ I care about software that ships and holds up in production: clean data models, 
 
 <br/>
 
-## Featured Projects
+## `$` Featured Projects
 
 <table>
 <tr>
@@ -184,7 +165,7 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 
 <br/>
 
-## GitHub Analytics
+## `$` GitHub Analytics
 
 <div align="center">
 
@@ -211,7 +192,7 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 
 <br/>
 
-## Currently
+## `$` Currently
 
 | Status | Details |
 |---|---|
@@ -222,7 +203,7 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 
 <br/>
 
-## Let's Connect
+## `$` Let's Connect
 
 <div align="center">
 

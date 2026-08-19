@@ -1,42 +1,36 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Frank Tei-Deku, Full Stack Developer, Accra, Ghana">
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal window. Command: whoami. Output: Frank Tei-Deku, Full Stack Developer, Accra, Ghana. Command: cat mission.txt. Output: Building production web products at INNOVISION GHANA. Command: echo status. Output: available, open to freelance and contract work.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0B0B0D"/>
-      <stop offset="100%" stop-color="#18181B"/>
-    </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="accentSoft" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2563EB" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#2563EB" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#111113"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="14" fill="url(#bg)" stroke="#27272A" stroke-width="1.5"/>
 
-  <rect x="0" y="0" width="1200" height="3" fill="#2563EB"/>
+  <path d="M1,15 A14,14 0 0 1 15,1 H1185 A14,14 0 0 1 1199,15 V52 H1 Z" fill="#18181B"/>
+  <line x1="1" y1="52" x2="1199" y2="52" stroke="#27272A" stroke-width="1"/>
 
-  <g font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" opacity="0.5" fill="#2563EB">
-    <text x="1000" y="145" font-size="22" font-family="'Fira Code', 'Consolas', monospace">&gt;_</text>
+  <circle cx="34" cy="26" r="6.5" fill="#FF5F56"/>
+  <circle cx="58" cy="26" r="6.5" fill="#FFBD2E"/>
+  <circle cx="82" cy="26" r="6.5" fill="#27C93F"/>
+
+  <text x="600" y="31" text-anchor="middle" font-family="'Fira Code', 'SF Mono', Consolas, Menlo, monospace" font-size="13" fill="#71717A">frank@innovision-ghana:~</text>
+
+  <g font-family="'Fira Code', 'SF Mono', Consolas, Menlo, monospace">
+    <text x="40" y="96" font-size="19"><tspan fill="#3B82F6">$</tspan><tspan fill="#E4E4E7"> whoami</tspan></text>
+    <text x="40" y="134" font-size="28" font-weight="700" fill="#FAFAFA">Frank Tei-Deku</text>
+    <text x="40" y="164" font-size="17" fill="#A1A1AA">Full Stack Developer · Accra, Ghana</text>
+
+    <text x="40" y="206" font-size="19"><tspan fill="#3B82F6">$</tspan><tspan fill="#E4E4E7"> cat mission.txt</tspan></text>
+    <text x="40" y="234" font-size="16" fill="#A1A1AA">Building production web products at INNOVISION GHANA</text>
+
+    <text x="40" y="276" font-size="19"><tspan fill="#3B82F6">$</tspan><tspan fill="#E4E4E7"> echo $STATUS</tspan></text>
+    <text x="40" y="304" font-size="16"><tspan fill="#22C55E">available</tspan><tspan fill="#71717A"> — open to freelance &amp; contract work</tspan></text>
+
+    <text x="40" y="330" font-size="19" fill="#3B82F6">$</text>
+    <rect x="58" y="316" width="10" height="18" fill="#E4E4E7">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="30" fill="freeze"/>
+    </rect>
   </g>
-
-  <rect x="62" y="72" width="46" height="6" rx="3" fill="#2563EB"/>
-
-  <text x="60" y="128" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="52" font-weight="700" fill="#FAFAFA">Frank Tei-Deku</text>
-  <text x="60" y="170" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="600" fill="#3B82F6">Full Stack Developer · Accra, Ghana</text>
-  <text x="60" y="204" font-family="'Archivo', 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#A1A1AA">Building production web products at INNOVISION GHANA</text>
-
-  <rect x="60" y="228" width="230" height="1" fill="url(#accentSoft)" opacity="0.7"/>
-
-  <g font-family="'Archivo', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#A1A1AA">
-    <circle cx="66" cy="252" r="4" fill="#22C55E">
-      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="20" fill="freeze"/>
-    </circle>
-    <text x="80" y="257">Open to freelance &amp; contract work</text>
-  </g>
-
-  <path d="M0,270 C260,300 940,240 1200,270 L1200,300 L0,300 Z" fill="#050506" opacity="0.6"/>
 </svg>
