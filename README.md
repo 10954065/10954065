@@ -58,241 +58,24 @@ I care about software that ships and holds up in production: clean data models, 
 
 ## `$` Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏪 Vantage POS System
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Multi tenant point of sale system for retail and pharmacy businesses. Three portals (Super Admin, Company Admin, Employee) share one Next.js app, one Postgres database, and one JWT auth layer, with every tenant's data isolated by `companyId`. Includes an optional pharmacy mode with prescription tracking, controlled substance dispense logging, and insurance claims.
-
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**[Vantage POS live demo →](https://the-vantage-pos.vercel.app)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 ODIGOS
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Marketing and booking site for a private chauffeur service in Accra. Built on the Next.js App Router with animated page transitions and validated booking forms.
-
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**[ODIGOS live demo →](https://odigos-five.vercel.app)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Sunleon Router Enterprise
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-![Founder](https://img.shields.io/badge/role-founder-2563EB?style=flat-square)
-
-Marketing site for Sunleon Router Enterprise, a company I founded, with a filterable portfolio page, a detailed services breakdown, and a splash animation that plays once on first load.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-
-**[Sunleon Router Enterprise live site →](https://www.sunleonrouterenterprise.com/)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 💜 LKCC Foundation
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Site for the Lyndah Kayson Confidence Circle Foundation, a nonprofit community platform focused on healing and confidence building.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**[LKCC Foundation live site →](https://www.lkccfoundation.org/)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 OCR Project — Product Matching Platform
-![In Progress](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)
-
-Full-stack platform that matches product photographs to manufacturer catalog entries. Parses manufacturer PDF catalogs into structured, page-referenced data, then matches photos against them with OCR and computer vision, cutting manual review from thousands of products down to only the uncertain ones. Phase 2 of 3 (catalog ingestion) is complete; photo matching and export are next.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%2B_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**[View source →](https://github.com/10954065/ocr-project)**
-
-</td>
-<td width="50%" valign="top">
-
-### ⛪ White Outreach Movement — Ministry Website
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Production-ready website build for a Ghana-based street outreach ministry, including a booking-and-approval one-on-one video call system (peer-to-peer WebRTC via PeerJS) alongside sermons, events, and Mobile Money-ready giving (Paystack/Flutterwave). CMS-ready content layer; audited with axe-core for accessibility (zero violations). Placeholder photography and copy pending real content before launch.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**[Live Site →](https://www.whiteoutreachmovement.org/)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏍️ RIDA — Ride & Delivery Marketplace
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-![In Progress](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)
-
-Motorcycle-powered on-demand marketplace for Ghana connecting customers, riders, and businesses for rides, deliveries, errands, and rider-hire. A pnpm/Turborepo monorepo: a NestJS backend handles auth, dispatch/pricing engines, payments, wallet, and realtime, with Expo apps for customers and riders and Next.js dashboards for admin and business.
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-<sub>Architecture-first build (backend, data model, dispatch/pricing engines) · source private · case study available on request</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 VYBE — Social Discovery Platform
-
-Mobile-first social discovery platform for real life: communities, events, check-ins, challenges, and streaks, answering "what's happening around me and who can I do it with." An original product (not a clone of existing events or virtual-life apps), launching in Accra, Ghana with architecture built to scale to other cities.
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**[View source →](https://github.com/10954065/VYBE)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👗 Forme — 3D Fashion Platform
-
-Production-grade fashion e-commerce platform where every garment is shown on standardized, measured 3D mannequins with real fabric behavior instead of static photography.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**[View source →](https://github.com/10954065/3d-ecommerce)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Sonotech Hospital ERP
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Enterprise Hospital Information System & ERP for a Ghanaian diagnostic center, self-hostable with no dependency on managed SaaS databases. 27 phases shipped and counting: patient operations, clinical/EMR, diagnostics, pharmacy & inventory, NHIS/G-DRG-aware billing, theatre, blood bank, maternal & child health, HR, admissions, procurement, insurance claims, and cross-department reporting.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<sub>Self-hosted hospital system · source private · case study available on request</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ Liberty ADR Centre
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Public website and staff admin area for an alternative dispute resolution centre in Accra. Visitors learn about mediation and arbitration services and request a consultation (saved, emailed to staff, and handed to WhatsApp); staff manage enquiries and site content from a protected admin area.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**[Liberty ADR Centre live site →](https://libertyadrcentreghana.com/)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧋 BOBA KING — Ordering & Store Management
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Responsive bubble tea ordering and store-management system. Customers order without an account — pickup or delivery, OTP phone confirmation, mobile money/card/cash — and track orders live; staff run the kitchen, delivery, coupons, reviews, and reports from one dashboard.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**[BOBA KING live demo →](https://bobaking-real-webapp.vercel.app)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 White Outreach — Kumasi Journey 2026
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Event registration and admin platform for a ministry program: public registration, admin review and selection, SMS notification, participant confirmation with a QR code, and check-in, plus admin tooling for campaigns, announcements, and reporting.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**[Kumasi Journey live site →](https://white-outreach-kumasi-journey.vercel.app)**
-<br/><sub>source private · case study available on request</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 FarmAnchor Global
-![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
-
-Marketing and catalogue site for an agribusiness sourcing fresh produce directly from Ghanaian farms for institutional and commercial buyers and export. Includes a branded produce catalogue rendered as a PDF on the fly so it always matches the live site.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<sub>source private · case study available on request</sub>
-
-</td>
-</tr>
-</table>
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 🏪 | **Vantage POS** [↗](https://the-vantage-pos.vercel.app) | Multi-tenant retail/pharmacy POS — 3 portals, per-tenant data isolation, optional pharmacy mode (prescriptions, controlled-substance logging, insurance claims) | Next.js · TS · PostgreSQL · Prisma · Tailwind |
+| 🚗 | **ODIGOS** [↗](https://odigos-five.vercel.app) | Marketing & booking site for a private chauffeur service in Accra — animated transitions, validated forms | Next.js · TS · Tailwind · Framer Motion |
+| 🏢 | **Sunleon Router Enterprise** [↗](https://www.sunleonrouterenterprise.com/) | Marketing site for a company I founded — filterable portfolio, services breakdown, one-time splash animation | React · Vite · Tailwind · React Router |
+| 💜 | **LKCC Foundation** [↗](https://www.lkccfoundation.org/) | Nonprofit platform for the Lyndah Kayson Confidence Circle Foundation | Next.js · TS · Tailwind |
+| 🔍 | **OCR Project** [↗](https://github.com/10954065/ocr-project) | Matches product photos to manufacturer catalog entries via OCR + computer vision — catalog ingestion (phase 2/3) complete | Next.js · TS · PostgreSQL+pgvector · Docker |
+| ⛪ | **White Outreach Movement** [↗](https://www.whiteoutreachmovement.org/) | Ministry site — P2P video-call booking, sermons/events, Mobile Money giving; axe-core audited | Next.js · TS · Tailwind · Framer Motion |
+| 🏍️ | **RIDA** | Motorcycle on-demand marketplace for Ghana — rides, deliveries, errands, rider-hire (architecture-first build) | NestJS · TS · Expo · PostgreSQL · Redis |
+| 🌐 | **VYBE** [↗](https://github.com/10954065/VYBE) | Mobile-first social discovery platform — communities, events, check-ins, streaks; original product launching in Accra | React Native · Expo · Next.js · Supabase |
+| 👗 | **Forme** [↗](https://github.com/10954065/3d-ecommerce) | Fashion e-commerce platform — garments shown on measured 3D mannequins instead of static photos | Next.js · TS · Three.js · PostgreSQL · Tailwind |
+| 🏥 | **Sonotech Hospital ERP** | Self-hostable hospital ERP for a Ghanaian diagnostic center — 27 phases shipped (clinical, pharmacy, billing, theatre, blood bank, HR) | Next.js · TS · PostgreSQL · Prisma · Docker |
+| ⚖️ | **Liberty ADR Centre** [↗](https://libertyadrcentreghana.com/) | Dispute-resolution centre site + staff admin — consultation requests saved, emailed, and sent to WhatsApp | Next.js · TS · PostgreSQL · Tailwind |
+| 🧋 | **BOBA KING** [↗](https://bobaking-demo.vercel.app/) | Bubble tea ordering & store management — guest checkout, OTP, mobile money, kitchen/delivery/admin dashboards | PHP · MySQL · JavaScript |
+| 📋 | **Kumasi Journey 2026** [↗](https://white-outreach-kumasi-journey.vercel.app) | Event registration platform — registration → admin review → SMS → QR check-in | Next.js · TS · Tailwind · PostgreSQL |
+| 🌾 | **FarmAnchor Global** | Agribusiness marketing site sourcing produce from Ghanaian farms — on-the-fly PDF catalogue | Next.js · TS · Tailwind |
+
+<sub>🔒 Private repos not linked to source above · case studies available on request</sub>
 
 <br/>
 
@@ -305,15 +88,15 @@ Marketing and catalogue site for an agribusiness sourcing fresh produce directly
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=10954065&theme=nord&hide_border=true" alt="GitHub streak stats" />
+<img height="150" src="https://streak-stats.demolab.com/?user=10954065&theme=nord&hide_border=true" alt="GitHub streak stats" />
 
 <br/>
 
-<img src="https://github-trophies.vercel.app/?username=10954065&theme=nord&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img height="110" src="https://github-trophies.vercel.app/?username=10954065&theme=nord&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
 <br/>
 
-<img src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Most productive coding hours" />
+<img height="150" src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Most productive coding hours" />
 
 <br/>
 
