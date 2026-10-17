@@ -240,7 +240,7 @@ Public website and staff admin area for an alternative dispute resolution centre
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[Liberty ADR Centre live site →](https://liberty-adr.vercel.app)**
+**[Liberty ADR Centre live site →](https://libertyadrcentreghana.com/)**
 <br/><sub>source private · case study available on request</sub>
 
 </td>
