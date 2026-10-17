@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Live activity log. Visit innovisiongh.com.](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=%24+tail+-f+activity.log;Building+Vantage+POS+%28multi-tenant+retail%2Fpharmacy%29;Shipping+OCR+Product+Matching+Platform+%28Phase+3%29;Open+to+freelance+%26+contract+work)](https://innovisiongh.com/)
+[![Live activity log. Visit innovisiongh.com.](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=%24+tail+-f+activity.log;Building+RIDA+%28Ghana+ride+%26+delivery+marketplace%29;Building+VYBE+%28social+discovery+platform%29;Open+to+freelance+%26+contract+work)](https://innovisiongh.com/)
 
 [![Website](https://img.shields.io/badge/Website-innovisiongh.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://innovisiongh.com/)
 ![Location](https://img.shields.io/badge/📍-Accra%2C%20Ghana-18181B?style=for-the-badge)
@@ -161,6 +161,137 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏍️ RIDA — Ride & Delivery Marketplace
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
+![In Progress](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)
+
+Motorcycle-powered on-demand marketplace for Ghana connecting customers, riders, and businesses for rides, deliveries, errands, and rider-hire. A pnpm/Turborepo monorepo: a NestJS backend handles auth, dispatch/pricing engines, payments, wallet, and realtime, with Expo apps for customers and riders and Next.js dashboards for admin and business.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+<sub>Architecture-first build (backend, data model, dispatch/pricing engines) · source private · case study available on request</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 VYBE — Social Discovery Platform
+
+Mobile-first social discovery platform for real life: communities, events, check-ins, challenges, and streaks, answering "what's happening around me and who can I do it with." An original product (not a clone of existing events or virtual-life apps), launching in Accra, Ghana with architecture built to scale to other cities.
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**[View source →](https://github.com/10954065/VYBE)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👗 Forme — 3D Fashion Platform
+
+Production-grade fashion e-commerce platform where every garment is shown on standardized, measured 3D mannequins with real fabric behavior instead of static photography.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**[View source →](https://github.com/10954065/3d-ecommerce)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Sonotech Hospital ERP
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
+
+Enterprise Hospital Information System & ERP for a Ghanaian diagnostic center, self-hostable with no dependency on managed SaaS databases. 27 phases shipped and counting: patient operations, clinical/EMR, diagnostics, pharmacy & inventory, NHIS/G-DRG-aware billing, theatre, blood bank, maternal & child health, HR, admissions, procurement, insurance claims, and cross-department reporting.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<sub>Self-hosted hospital system · source private · case study available on request</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ Liberty ADR Centre
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
+
+Public website and staff admin area for an alternative dispute resolution centre in Accra. Visitors learn about mediation and arbitration services and request a consultation (saved, emailed to staff, and handed to WhatsApp); staff manage enquiries and site content from a protected admin area.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**[Liberty ADR Centre live site →](https://liberty-adr.vercel.app)**
+<br/><sub>source private · case study available on request</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧋 BOBA KING — Ordering & Store Management
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
+
+Responsive bubble tea ordering and store-management system. Customers order without an account — pickup or delivery, OTP phone confirmation, mobile money/card/cash — and track orders live; staff run the kitchen, delivery, coupons, reviews, and reports from one dashboard.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**[BOBA KING live demo →](https://bobaking-real-webapp.vercel.app)**
+<br/><sub>source private · case study available on request</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 White Outreach — Kumasi Journey 2026
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
+
+Event registration and admin platform for a ministry program: public registration, admin review and selection, SMS notification, participant confirmation with a QR code, and check-in, plus admin tooling for campaigns, announcements, and reporting.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**[Kumasi Journey live site →](https://white-outreach-kumasi-journey.vercel.app)**
+<br/><sub>source private · case study available on request</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 FarmAnchor Global
+![Private](https://img.shields.io/badge/repo-private-6B7280?style=flat-square&logo=lock&logoColor=white)
+
+Marketing and catalogue site for an agribusiness sourcing fresh produce directly from Ghanaian farms for institutional and commercial buyers and export. Includes a branded produce catalogue rendered as a PDF on the fly so it always matches the live site.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<sub>source private · case study available on request</sub>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -196,8 +327,8 @@ Production-ready website build for a Ghana-based street outreach ministry, inclu
 
 | Status | Details |
 |---|---|
-| 🔭 **Building** | Vantage POS (multi tenant retail/pharmacy platform) and the ODIGOS booking site |
-| 🌱 **Deepening** | Next.js App Router patterns and Prisma/Postgres data modeling for multi tenant systems |
+| 🔭 **Building** | RIDA (Ghana ride & delivery marketplace) and VYBE (social discovery platform) |
+| 🌱 **Deepening** | Turborepo/NestJS backend architecture and Expo/React Native app development across multi-app monorepos |
 | 💼 **Open to** | Freelance and contract web development through [INNOVISION GHANA](https://innovisiongh.com/) |
 | 📫 **Reach me** | [innovisiongh.com](https://innovisiongh.com/) · [sunleonrouterenterprise.com](https://www.sunleonrouterenterprise.com/) |
 
